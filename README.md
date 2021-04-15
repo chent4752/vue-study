@@ -1,5 +1,5 @@
 # vue_shop
-
+别看了这就是一个学习项目
 ## Project setup
 ```
 npm install
